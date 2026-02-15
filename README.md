@@ -45,6 +45,3 @@ A curated list of beginner-friendly articles covering networking, DNS, Git, brow
 13. **Understanding Network Devices**  
     🔗 https://gn-network-device.hashnode.dev/understanding-network-devices
 
----
-
-✨ _All articles are written in a beginner-friendly style with real-world examples and simple explanations._
